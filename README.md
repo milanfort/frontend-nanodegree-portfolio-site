@@ -6,7 +6,7 @@
 This repository contains a solution to assignment #1 of the Udacity's Front-End Web Developer Nanodegree Programme.
 
 Using the provided
-[design mockup](https://github.com/milanfort/frontend-nanodegree-portfolio-site/blob/master/doc/design-mockup-portfolio.pdf)
+[design mockup](https://github.com/milanfort/frontend-nanodegree-portfolio-site/raw/master/doc/design-mockup-portfolio.pdf)
 in PDF-format, the task was to convert this mockup into a responsive website using HTML, CSS, and the Bootstrap framework.
 
 
